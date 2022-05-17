@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gavin
-- 👀 I’m interested in data science, data visualisation and statistics
-- 🌱 I’m currently learning about web-compatible frameworks like d3.js from a data science perspective
+- 👀 I’m interested in product management in the tech space
 - 📫 How to reach me: e-mail me
 
 <!---
